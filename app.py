@@ -974,7 +974,7 @@ Predicting Undernutrition Among Under-Five Children in Ethiopia Using Machine Le
 
 **Telila Kejela**
 
-MSc Candidate
+MSc in Data Science
 
 Addis Ababa University
 
